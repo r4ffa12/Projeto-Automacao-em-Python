@@ -4,7 +4,22 @@
 
 ### Mouseinfo instalação para caso o pip não esteja funcionando o cmd padrão 
 
-
+#### passo 1
 ![001](001.jpg)
+
+#### passo 2
+![002](002.jpg)
+
+#### passo 3
+![003](003.jpg)
+
+#### passo 4
+![004](004.jpg)
+
+#### passo 5
+![005](005.jpg)
+
+
+
 
 
