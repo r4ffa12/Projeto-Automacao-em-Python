@@ -4,6 +4,6 @@
 
 ### Mouseinfo instalação para caso o pip não esteja funcionando o cmd padrão 
 
-![imagem](001.png)
+![imagem](001.jpg)
 
 
