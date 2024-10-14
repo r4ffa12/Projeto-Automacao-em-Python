@@ -4,6 +4,6 @@
 
 ### Mouseinfo instalação para caso o pip não esteja funcionando o cmd padrão 
 
-![freelancer](001.jpg)
+![freelancer contabilidade](001.jpg)
 
 
